@@ -1,6 +1,13 @@
 Freeplane
 =========
 
+About This Fork
+===============
+
+This fork is an experiment to run FreePlane on mobile devices. No idea at the moment if this'll work at all, so take it with a grain of salt. :)
+
+
+
 [![SourceForge](https://img.shields.io/sourceforge/dt/freeplane?color=green)](https://sourceforge.net/projects/freeplane/files/stats/timeline)
 [![GitHub Repo stars](https://img.shields.io/github/stars/freeplane/freeplane?color=yellow)](https://github.com/freeplane/freeplane/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/freeplane/freeplane)](https://github.com/freeplane/freeplane/network)
